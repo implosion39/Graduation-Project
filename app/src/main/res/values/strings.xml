@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">企业员工管理系统</string>
+    <string name="title_home">员工</string>
+    <string name="title_dashboard">基本情况</string>
+    <string name="title_notifications">我的</string>
+    <string name="logout">退出登录</string>
+
+    <array name="spinners">
+        <item>查询</item>
+        <item>删除</item>
+        <item>增加</item>
+        <item>修改</item>
+    </array>
+
+    <array name="education_array">
+        <item>大专</item>
+        <item>本科</item>
+        <item>硕士</item>
+        <item>博士</item>
+    </array>
+
+    <array name="department_array">
+        <item>财务部</item>
+        <item>行政部</item>
+        <item>后勤部</item>
+        <item>技术部</item>
+        <item>人力资源部</item>
+        <item>生产部</item>
+        <item>物流部</item>
+        <item>销售部</item>
+    </array>
+
+    <array name="post_array">
+        <item>普通员工</item>
+        <item>经理</item>
+        <item>主管</item>
+        <item>总监</item>
+    </array>
+</resources>
